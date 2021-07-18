@@ -1,3 +1,5 @@
+# *DINO SEM NET ADVENTURE*
+
 Jogo criado por mim para o bootcamp da Digital Innovation One, através das aulas do professor Celso Henrique. Adorei fazer esse jogo e coloquei algumas funcionalidades além do proposto no bootcamp:
  
   1 - Adicionei pontuação de 100 pontos por cacto pulado;
